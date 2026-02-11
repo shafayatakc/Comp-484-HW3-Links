@@ -1,2 +1,1 @@
-# Comp-484-HW3-Links
-HW3 Links
+https://csun-orm.github.io/comp484-hw3/
