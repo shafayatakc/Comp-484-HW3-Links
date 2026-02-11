@@ -1,1 +1,1 @@
-https://csun-orm.github.io/comp484-hw3/
+https://shafayatakc.github.io/Comp-484-HW3-Links/
